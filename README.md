@@ -22,14 +22,6 @@ The notebook is structured with the following key features:
 
 6. RTLS-Based Vehicle Location: Uses RTLS sensor data to locate vehicles that are not found in their assigned parking spaces.
 
-### **Requirements**
-
-1. NumPy
-2. Pandas
-3. Matplotlib
-4. Random
-5. datetime
-
 ### **Usage**
 
 1. Visualization of the Parking Lot: Running the first code snippet, the parking lot layout will be displayed.
